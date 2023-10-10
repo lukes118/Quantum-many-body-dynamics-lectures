@@ -23,9 +23,8 @@ with projects including very recent developments, is an important
 part of the course.
 
 ## Lectures:
----
-permalink: /lecture_notes/lecture_notes.1.md
----
+Lecture 1:
+[Lecture 1](/lecture-notes/lecture_notes.1.md)
 
 
 ## Todo:
