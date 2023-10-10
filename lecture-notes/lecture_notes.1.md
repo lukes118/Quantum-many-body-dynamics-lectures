@@ -1,9 +1,3 @@
----
-layout: page
-title: About
-permalink: /lecture_1/
----
-
 Lecture 1: Quantum many body dynamics
 ========================================
 > key: [R]=Rodderich; [P]=Peter; [M]=Marin
