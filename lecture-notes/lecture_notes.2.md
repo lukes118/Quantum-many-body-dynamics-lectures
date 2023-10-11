@@ -13,6 +13,10 @@ $$ \hat{H} = -t \hat{c}_i $$
               
 Summary:              
 --------              
+![quick_plot]("figures/quick_plot.png")
+
+<img 
+src="figures/quick_plot.png"/>
               
 Todo:              
 -----              

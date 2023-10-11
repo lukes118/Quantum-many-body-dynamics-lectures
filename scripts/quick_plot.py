@@ -19,7 +19,7 @@ def main():
 
     # showing or saving
     if input("save?") == "y":
-        plt.savefig("figures/quick_plot.pdf")
+        plt.savefig("figures/quick_plot.png")
     plt.show()
 
 
