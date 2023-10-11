@@ -22,10 +22,16 @@ crystals, quantum circuits). A small supervised research component,
 with projects including very recent developments, is an important
 part of the course.
 
+## Lectures:
+Lecture 1:
+[Lecture 1](/lecture-notes/lecture_notes.1.md)
 
 
 ## Todo:
 [x] Turn txt notes in to latex notes. Use affinity for drawings, latex snippets for equation and type in markdown.
+
+$$ a \implies b $$
+
 
 [] sign up to emails with Peter
 
