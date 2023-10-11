@@ -12,13 +12,6 @@ Tuesday / Thursday at 13:00 - 14:30
 #### location: 
 Seminar Room 1-3 (SR1-3), Max Planck Institute for the Physics of Complex Systems, Noethnitzer Str 38, Dresden 01187
 start: October, 10th
-
-\[ a \implies b \]
-
-\() a \implies b \)
-
-$$ a \implies b $$
-
 ## Outline:
 
 Introduction to modern quantum many-body dynamics, covering
@@ -30,6 +23,12 @@ part of the course.
 
 ## Lectures:
 [Lecture 1](/lecture-notes/lecture_notes.1.md)
+
+> #### Test for $\LaTeX$
+> $$ a \implies b $$
+
+### Test for Images
+<img src="lecture-notes/figures/tikz_plt.png" width=300 />
 
 
 ## Todo:

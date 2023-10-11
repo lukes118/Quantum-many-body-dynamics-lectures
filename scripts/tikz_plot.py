@@ -44,8 +44,8 @@ def arrowed_spines(fig, ax, x_label="x", y_label="f(x)"):
     
     x_range = xmax - xmin
     y_range = ymax - ymin
-    ax.text(xmax - 0.1*x_range, -0.1*y_range, x_label, fontsize=14)
-    ax.text(- 0.14*x_range, y_range - 0.1*y_range, y_label, fontsize=14)
+    ax.text(xmax - 0.1*x_range, -0.1*y_range, x_label, fontsize=12)
+    ax.text(- 0.14*x_range, y_range - 0.1*y_range, y_label, fontsize=12)
 
 def main():
     # plot
@@ -60,7 +60,7 @@ def main():
     
     # viewing and saving
     if input("save?") == "y":
-        plt.savefig("figures/tikz_plt.pdf")
+        plt.savefig("lecture-notes/figures/tikz_plt.png")
     plt.show()
 
 if __name__ == '__main__':

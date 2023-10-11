@@ -1,9 +1,7 @@
 Lecture 1: Quantum many body dynamics
 ========================================
 > key: 
->
 > [R]=Rodderich [P]=Peter [M]=Marin
->
 > [Q]=question  [A]=answer [C]=my comment
 
 Intro:

@@ -19,8 +19,6 @@ def main():
             f"Lecture {lecture_number}: Quantum many body dynamics \
              \n==================================================== \
              \n#### Date: {datetime.date.today()} \
-             \n> key: [R]=Rodderich; [P]=Peter; [M]=Marin \
-             \n> [Q]=question [A]=answer \
              \n \
              \nIntro/ Recap: \
              \n------------- \
