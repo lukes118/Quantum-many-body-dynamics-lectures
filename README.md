@@ -13,6 +13,7 @@ Tuesday / Thursday at 13:00 - 14:30
 Seminar Room 1-3 (SR1-3), Max Planck Institute for the Physics of Complex Systems, Noethnitzer Str 38, Dresden 01187
 start: October, 10th
 
+\[a \implies b \]
 ## Outline:
 
 Introduction to modern quantum many-body dynamics, covering
