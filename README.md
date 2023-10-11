@@ -13,7 +13,12 @@ Tuesday / Thursday at 13:00 - 14:30
 Seminar Room 1-3 (SR1-3), Max Planck Institute for the Physics of Complex Systems, Noethnitzer Str 38, Dresden 01187
 start: October, 10th
 
-\[a \implies b \]
+\[ a \implies b \]
+
+\() a \implies b \)
+
+$$ a \implies b $$
+
 ## Outline:
 
 Introduction to modern quantum many-body dynamics, covering
@@ -30,7 +35,7 @@ part of the course.
 ## Todo:
 [x] Turn txt notes in to latex notes. Use affinity for drawings, latex snippets for equation and type in markdown.
 
-$$ a \implies b $$
+
 
 
 [] sign up to emails with Peter
