@@ -1,7 +1,10 @@
 Lecture 1: Quantum many body dynamics
 ========================================
-> key: [R]=Rodderich; [P]=Peter; [M]=Marin
-> [Q]=question [A]=answer
+> key: 
+>
+> [R]=Rodderich [P]=Peter [M]=Marin
+>
+> [Q]=question  [A]=answer [C]=my comment
 
 Intro:
 ------
@@ -224,8 +227,8 @@ In some sense time evoultion of the matrix incorporates time evolution of all wa
 Whilst Shroedinger and HB. picture the same if solving for all eigenstates can be different in practice.
 H.b picture and operator spreading will shed some light on things.
 
-Non - equilibrium:
-------------------
+## Non - equilibrium:
+
 Most things are not equilibrium, so we need to start simpler i.e. closer to some of the
 concepts we use from equilibrium.
 
@@ -235,8 +238,9 @@ Found in context of Floquet systems (periodically driven.)
 
 #### Start driving things: 
 
-$$ H = H_0 + H_{driven} $$
-$$ H_{driven} = \cos(n \omega t) \; H_n \tag{3} $$  
+> $$ H = H_0 + H_{driven} $$
+>
+> $$ H_{driven} = \cos(n \omega t) \; H_n \tag{3} $$  
 
 (3) has frequencies that are harmonics of the fundamental drive.
 {can also think of quasi peridic systems hongzheng zhoa}
