@@ -4,10 +4,15 @@ import numpy as np
 
 def quick_plot(fig, axes):
     ax = axes[0]
-    x = np.linspace(0, 1, 10)
-    ax.plot(x, np.sin(x))
+    x = np.linspace(0, 10, 20)
+    ax.plot(x, np.sin(x), label="first set")
 
     ax.set_xlabel("x")
+    ax.set_ylabel("y")
+
+    # legend
+    legend = ax.legend(loc="upper left", bbox_to_anchor=[0, 1])
+    legend.get_frame().set_linewidth(0.4)
 
 def main():
     plt.style.use("half_width_fig")
@@ -19,7 +24,7 @@ def main():
 
     # showing or saving
     if input("save?") == "y":
-        plt.savefig("figures/quick_plot.png")
+        plt.savefig("lecture-notes/figures/quick_plot.png")
     plt.show()
 
 

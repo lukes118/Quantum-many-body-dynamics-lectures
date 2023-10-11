@@ -47,6 +47,8 @@ def arrowed_spines(fig, ax, x_label="x", y_label="f(x)"):
     ax.text(xmax - 0.1*x_range, -0.1*y_range, x_label, fontsize=12)
     ax.text(- 0.14*x_range, y_range - 0.1*y_range, y_label, fontsize=12)
 
+    ax.grid()
+
 def main():
     # plot
     plt.style.use("half_width_fig")

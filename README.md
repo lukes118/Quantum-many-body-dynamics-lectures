@@ -24,11 +24,10 @@ part of the course.
 ## Lectures:
 [Lecture 1](/lecture-notes/lecture_notes.1.md)
 
-> #### Test for $\LaTeX$
-> $$ a \implies b $$
+> $$ \LaTeX \qquad a \implies b $$
 
 ### Test for Images
-<img src="lecture-notes/figures/tikz_plt.png" width=300 />
+<img src="lecture-notes/figures/quick_plot.png" width=300 />
 
 
 ## Todo:
