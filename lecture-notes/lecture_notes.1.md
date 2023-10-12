@@ -27,7 +27,7 @@ It's formulation was before microscopics, and makes/needs no reference to micros
 The first two central concepts are:
 - **Equilibration**: a sytem eventually reaches a steady state if you sit and wait for long enough
 - **Thermalisation**: where very little information is required to describe this steady state e.g.
-- N - $\mu$, E - T, V - P
+- N - $ \mu $, E - T, V - P
 
 **Instructions**:
 1) find the constraints e.g energy, of particle number etc.
