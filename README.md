@@ -22,12 +22,11 @@ with projects including very recent developments, is an important
 part of the course.
 
 ## Lectures:
-[Lecture 1](/lecture-notes/lecture_notes.1.md)
+[Lecture 1](/lecture-notes/lecture_notes.1.md): TFI as a minimal model for generic quantum systems.
+
+[Lecture 2](/lecture-notes/lecture_notes.2.md): Introduction to Marin's quspin for ED. Some talk of Renyi entropy.
 
 > $$ \LaTeX \qquad a \implies b $$
-
-### Test for Images
-<img src="lecture-notes/figures/quick_plot.png" width=300 />
 
 
 ## Todo:
