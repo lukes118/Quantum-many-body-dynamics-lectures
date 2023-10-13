@@ -92,11 +92,5 @@ we want to compute:
 2. expectation value as a function of time
 3. time evolution of the entanglement entropy
 
-Summary:              
---------              
-              
-Todo:              
------              
-              
-Ref:              
-----
+
+[previous](/lecture-notes/lecture_notes.1.md)

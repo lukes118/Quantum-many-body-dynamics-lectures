@@ -260,15 +260,19 @@ Intro to the course and a minimal model for what a generic quantum many body sys
 namely the n.n.n TFI can tune in and out of integrability.
 clean, conscise and clear idea of what to say and to show
 
-Ref:
-----
+
 
 Todo:
 -----
-[ ] email peter claeys to inform attendance: claeys@pks.mpg.de
+[x] email peter claeys to inform attendance: claeys@pks.mpg.de
 
-[ ] (check out website which will come after sending the email)
+[x] (check out website which will come after sending the email)
 
-[ ] model TFI with J1 J2 and look at integrable vs generic behaviour
+[] model TFI with J1 J2 and look at integrable vs generic behaviour
 
-[ ] look at QSpin from Marin
+[] look at QSpin from Marin
+
+
+[Lecture 2](/lecture-notes/lecture_notes.2.md)
+
+
