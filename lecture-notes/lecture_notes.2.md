@@ -93,4 +93,4 @@ we want to compute:
 3. time evolution of the entanglement entropy
 
 
-[previous](/lecture-notes/lecture_notes.1.md)
+[previous](/lecture-notes/lecture_notes.1.md) &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; [next](/lecture-notes/lecture_notes.3.md)

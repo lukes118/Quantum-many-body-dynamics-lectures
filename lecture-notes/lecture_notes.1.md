@@ -273,6 +273,6 @@ Todo:
 [] look at QSpin from Marin
 
 
-[Lecture 2](/lecture-notes/lecture_notes.2.md)
+[next](/lecture-notes/lecture_notes.2.md)
 
 

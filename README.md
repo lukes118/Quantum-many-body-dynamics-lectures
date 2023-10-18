@@ -21,6 +21,9 @@ crystals, quantum circuits). A small supervised research component,
 with projects including very recent developments, is an important
 part of the course.
 
+
+### [Course Website](https://www.pks.mpg.de/condensed-matter/teaching)
+
 ## Lectures:
 [Lecture 1](/lecture-notes/lecture_notes.1.md): TFI as a minimal model for generic quantum systems.
 

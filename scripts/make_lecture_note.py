@@ -16,7 +16,7 @@ def main():
 
     with open(f"lecture-notes/lecture_notes.{lecture_number}.md", 'w') as f:
         f.writelines(
-            f"Lecture {lecture_number}: Quantum many body dynamics \
+            f"Lecture {lecture_number}:  \
              \n==================================================== \
              \n#### Date: {datetime.date.today()} \
              \n \
@@ -29,8 +29,8 @@ def main():
              \nTodo: \
              \n----- \
              \n \
-             \nRef: \
-             \n----"
+             \n[previous](/lecture-notes/lecture_notes.{lecture_number - 1}.md) &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; [next](/lecture-notes/lecture_notes.{lecture_number +1}.md)\
+             "
              ) 
 
   
