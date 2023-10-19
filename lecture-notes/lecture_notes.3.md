@@ -9,12 +9,11 @@ Intro/ Recap:
 > How do quantum systems **relax** to **thermal** equililbrium ?
 
 #### Ex: Observable
-
-    TODO: typical plot of observable relaxing to equilibrium
-
 <p align="center">
-  <img src="figures/lecture_3/relaxing_to_eq.pdf" width=300 />
+  <img src="figures/lecture_3/observable.png" width=300 />
 </p>
+
+    Fig 1. Observable relaxing to equilibirium.
 
 #### 1. Relaxation
 States evolve according to time dependent Schroedinger equation.
@@ -60,7 +59,10 @@ may be simpler.
 
 $$ H = -J \sum_i \sigma_i^z \sigma_{i+1}^z $$
 
-    Diagram here of sub sytem inside bath of larger sytsem 
+ <p align="center">
+  <img src="figures/lecture_3/g46.png" width=300 />
+</p>
+
 
 $$ \hat {O} = \hat{O}_A \otimes \hat{\mathbb{I}}_B$$
 
