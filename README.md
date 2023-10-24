@@ -30,7 +30,7 @@ part of the course.
 
 [Lecture 2](/lecture-notes/lecture_notes.2.md): Introduction to Marin's quspin for ED. Some talk of Renyi entropy.
 
-[Lecture 2](/lecture-notes/lecture_notes.3.md): Peter introduces random matrices and the ETH ansatz. 
+[Lecture 3](/lecture-notes/lecture_notes.3.md): Peter introduces random matrices and the ETH ansatz. 
 
 ## Todo:
 [x] Turn txt notes in to latex notes. Use affinity for drawings, latex snippets for equation and type in markdown.

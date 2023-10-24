@@ -1,4 +1,4 @@
-Lecture 2: Quantum many body dynamics              
+Lecture 2: Exact diagonalisation              
 ====================================================              
 #### Date: 2023-10-12              
               
